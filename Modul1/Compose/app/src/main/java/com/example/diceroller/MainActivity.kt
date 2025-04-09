@@ -102,7 +102,7 @@ class MainActivity : ComponentActivity() {
 
                 showSnackbar(message)
             }) {
-                Text(stringResource(R.string.ROLL))
+                Text("Roll")
             }
         }
 
