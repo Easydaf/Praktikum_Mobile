@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var rollbtn: Button
     private lateinit var dice: ImageView
     private lateinit var dice2: ImageView
+    private lateinit var teks: String
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -20,6 +21,7 @@ class MainActivity : AppCompatActivity() {
         dice2 = findViewById(R.id.dice_image2)
 
         rollbtn = findViewById(R.id.roll_button)
+
 
         rollbtn.setOnClickListener {
             rollDice()

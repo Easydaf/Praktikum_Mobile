@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculatorTipX</string>
+    <string-array name="tip_options">
+        <item>15%</item>
+        <item>18%</item>
+        <item>20%</item>
+    </string-array>
+</resources>
