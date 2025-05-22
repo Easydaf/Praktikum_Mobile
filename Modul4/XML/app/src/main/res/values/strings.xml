@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MobileLegendCharacterListXML</string>
+
+    <string name="btn_detail">Detail</string>
+    <string name="btn_penjelasan">Penjelasan</string>
+
+    <string-array name="data_name">
+        <item>Franco</item>
+        <item>Kalea</item>
+        <item>Lylia</item>
+        <item>Hanzo</item>
+        <item>Lancelot</item>
+        <item>Lukas</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/hero1</item>
+        <item>@drawable/hero2</item>
+        <item>@drawable/hero3</item>
+        <item>@drawable/hero4</item>
+        <item>@drawable/hero5</item>
+        <item>@drawable/hero6</item>
+    </string-array>
+
+    <string-array name="data_link">
+        <item>https://m.mobilelegends.com/hero/detail?channelid=2678746&amp;heroid=10</item>
+        <item>https://m.mobilelegends.com/hero/detail?channelid=2863075&amp;heroid=128</item>
+        <item>https://m.mobilelegends.com/hero/detail?channelid=2678822&amp;heroid=86</item>
+        <item>https://m.mobilelegends.com/hero/detail?channelid=2678805&amp;heroid=69</item>
+        <item>https://m.mobilelegends.com/hero/detail?channelid=2678783&amp;heroid=47</item>
+        <item>https://m.mobilelegends.com/hero/detail?channelid=2819992&amp;heroid=127</item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item>Franco adalah hero dengan role tank yang ada di Mobile Legends: Bang Bang. Dia memiliki Skill 1 yaitu Iron Hook, Skill 2 yaitu Fury Shock, dan Skill 3 yaitu Brutal Massacre, dan memiliki pasif yaitu Annihilation.</item>
+        <item>Kalea adalah hero dengan role tank/Support yang ada di Mobile Legends: Bang Bang. Dia memiliki Skill 1 yaitu Wavebreaker, Skill 2 yaitu Tidal Strike, dan Skill 3 yaitu Tsunami Slam, dan memiliki pasif yaitu Surge of Life.</item>
+        <item>Lylia adalah hero dengan role Mage yang ada di Mobile Legends: Bang Bang. Dia memiliki Skill 1 yaitu Magic Shockwave, Skill 2 yaitu Shadow Energy, dan Skill 3 yaitu Black Shoes, dan memiliki pasif yaitu Gloom</item>
+        <item>Hanzo adalah hero dengan role Asassin yang ada di Mobile Legends: Bang Bang. Dia memiliki Skill 1 yaitu Ninjutsu: Demon Feast, Skill 2 yaitu Ninjutsu: Dark Mist, dan Skill 3 yaitu Kinjutsu: Pinnacle Ninja, dan memiliki pasif yaitu Ame no Habakiri</item>
+        <item>Lancelot adalah hero dengan role Assasin yang ada di Mobile Legends: Bang Bang. Dia memiliki Skill 1 yaitu Puncture, Skill 2 yaitu Thorned Rose, dan Skill 3 yaitu Phantom Execution, dan memiliki pasif yaitu Soul Cutter</item>
+        <item>Lukas adalah hero dengan role Fighter yang ada di Mobile Legends: Bang Bang. Dia memiliki Skill 1 yaitu Flash Combo, Skill 2 yaitu Flash Step, dan Skill 3 yaitu Unleash the Beast, dan memiliki pasif yaitu Heros Resolve.</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
