@@ -28,7 +28,6 @@ class MainActivity : ComponentActivity() {
             MobileLegendCharacterListTheme {
                 val navController = rememberNavController()
 
-                // ✅ Inisialisasi ViewModel pakai Factory
                 val viewModel: HeroViewModel = viewModel(
                     factory = HeroViewModelFactory("List Hero ML")
                 )
